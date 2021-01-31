@@ -1,4 +1,5 @@
 # IAL
+Celkem : 20/20
 ------------------------ Bodové hodnocení pro xsimav01 -----------------------
 c201-test(max_18_OK) - počet získaných bodů: 2 (18 sections OK)
 c201-advanced-test(max_30_OK) - počet získaných bodů: 1 (30 sections OK)
