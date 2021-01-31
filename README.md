@@ -1,4 +1,4 @@
-#IAL
+#IAL br/>
 Celkem : 20/20<br/>
 ------------------------ Bodové hodnocení pro xsimav01 -----------------------<br/>
 c201-test(max_18_OK) - počet získaných bodů: 2 (18 sections OK)<br/>
@@ -17,7 +17,7 @@ c402-advanced-test(max_30_OK) - pocet pocet ziskanych bodu: 2 ( 30 sections OK )
 c016-test(max_12_OK) - pocet pocet ziskanych bodu: 2 ( 12 sections OK )<br/>
 c016-advanced-test(max_20_OK) - pocet pocet ziskanych bodu: 1 ( 19 sections OK )<br/>
 ----------------<br/>
-	:heavy_check_mark: Celkem : 10 bodu<br/>
+:heavy_check_mark: Celkem : 10 bodu<br/>
 
 
 
